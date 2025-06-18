@@ -36,3 +36,6 @@ int main()
     cout<<maxArea(height)<<endl; // output = 49
     return 0;
 }
+// Complexitiy Analysis
+// Time - O(n)
+// space - O(1)
